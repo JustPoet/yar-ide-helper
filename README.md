@@ -1,2 +1,4 @@
 # yar-ide-helper
-Yar扩展的IDE提示助手
+### 使用方法
+
+讲yar-ide-helper目录拷贝到项目根目录下即可
